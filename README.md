@@ -29,3 +29,11 @@ Copy all the HTML code and paste it on your email service provider.
 
 I’ve tested this responsive email on all major email client using www.emailonacid.com
 
+![Newsletter1](https://user-images.githubusercontent.com/112459290/204507618-f94773cb-7ce8-44d6-92fd-a1114867da2f.png)
+
+![Newsletter3](https://user-images.githubusercontent.com/112459290/204507656-4f0e7312-4ad2-4d25-955f-fdd6221c46c1.png)
+
+![Newsletter4](https://user-images.githubusercontent.com/112459290/204507690-cd2712af-afd9-4508-bf81-ade3df8188f4.png)
+
+![applemail15](https://user-images.githubusercontent.com/112459290/204507856-e8b409e9-0ce4-4957-b49e-f9cf73020b67.png)
+
